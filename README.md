@@ -1,7 +1,7 @@
 # Voice Recorder - Python
 
 # Description:
-Voice Recorder in Python using sounddevice, wavio and scipy.
+Voice Recorder in Python using sounddevice, wavio and scipy library.
 
 # How to use
 1. Install Python 3.9.X from [here](https://www.python.org/downloads)
